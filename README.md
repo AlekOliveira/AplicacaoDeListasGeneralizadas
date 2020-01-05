@@ -3,3 +3,6 @@ Este algorítimo resolve uma expressão matemática utilizando listas generaliza
 
 ![](ListasGeneralizadas/imgs/img1.png)
 ![](ListasGeneralizadas/imgs/img2.png)
+
+
+Desenvolvido em conjuto de Heitor Payão
